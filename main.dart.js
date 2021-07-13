@@ -60188,7 +60188,7 @@ D:function(a,b){return K.G8(new F.CT(null),new G.tP(null),new V.CU(null))}}
 F.CT.prototype={
 D:function(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=null,e=t.w,d=b.F(e).f.a.b,c=b.F(e).f.a.a
 e=d*0.3
-e=T.aav(K.hl(100),U.aaQ("assets/1.jpeg",C.je,e,e))
+e=T.aav(K.hl(200),U.aaQ("assets/1.png",C.je,e,e))
 s=d*0.01
 r=T.b1(f,s,f)
 q=c<1200
@@ -60211,7 +60211,7 @@ G.JN.prototype={
 D:function(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=t.w,f=b.F(g).f.a.b
 g=b.F(g).f
 s=f*0.3
-s=T.aav(K.hl(100),U.aaQ("assets/1.jpeg",C.je,s,s))
+s=T.aav(K.hl(200),U.aaQ("assets/1.png",C.je,s,s))
 r=T.b1(h,f*0.1,h)
 q=f*0.055
 p=L.bL("Parth",B.cl(h,q,C.V,h,1.1),h)
@@ -60229,7 +60229,7 @@ return M.b4(h,M.b4(h,T.dn(H.c([s,r,p,q,o,l,n,T.hQ(j,C.N,C.a1,C.h4)],k),C.N,C.b9)
 V.CU.prototype={
 D:function(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=t.w,g=b.F(h).f.a.b,f=b.F(h).f.a.a
 h=g*0.3
-h=T.aav(K.hl(100),U.aaQ("assets/1.jpeg",C.je,h,h))
+h=T.aav(K.hl(200),U.aaQ("assets/1.png",C.je,h,h))
 s=g*0.01
 r=T.b1(i,s,i)
 q=g*0.07
